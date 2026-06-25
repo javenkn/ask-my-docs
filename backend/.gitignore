@@ -1,0 +1,7 @@
+# Secrets — NEVER commit the real .env (the committed template is .env.example)
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc

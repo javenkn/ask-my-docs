@@ -1,0 +1,17 @@
+.DS_Store
+
+# Secrets — never commit real env files
+.env
+**/.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / Next
+node_modules/
+.next/
+
+# Personal interview-prep notes — keep local, not on the public repo
+DECISIONS.md
